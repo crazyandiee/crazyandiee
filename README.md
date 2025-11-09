@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/crazyandiee/crazyandiee/blob/72ad045e177a69bacd7f2c2a3127b2f5523deb04/giphy%20(1).gif?raw=true" 
+       alt="Anime coder banner" 
+       width="100%" 
+       height="300" 
+       style="object-fit: cover; border-radius: 10px;"/>
+</p>
+
+
+
 # 👋 Hey there, I'm Andie!
 [![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/crazyandiee/Store-Uptime-Analytics-API)
 [![Stars](https://img.shields.io/github/stars/crazyandiee/Store-Uptime-Analytics-API?style=social)](...)
