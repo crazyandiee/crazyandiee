@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://github.com/crazyandiee/crazyandiee/blob/72ad045e177a69bacd7f2c2a3127b2f5523deb04/giphy%20(1).gif?raw=true" 
+  <img src="hy%20(1)https://github.com/crazyandiee/crazyandiee/blob/21b95aabc2c0eac7db7a759952eb43c68270c714/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" 
        alt="Anime coder banner" 
        width="100%" 
        height="300" 
        style="object-fit: cover; border-radius: 10px;"/>
 </p>
-
-
 
 # 👋 Hey there, I'm Andie!
 [![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/crazyandiee/Store-Uptime-Analytics-API)
