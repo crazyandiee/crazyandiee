@@ -1,54 +1,83 @@
-# 👋 Hey there, I'm Andie!  
+# 👋 Hey there, I'm Andie!
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/crazyandiee/Store-Uptime-Analytics-API)
+[![Stars](https://img.shields.io/github/stars/crazyandiee/Store-Uptime-Analytics-API?style=social)](...)
 
-### 💻 Data Science | Machine Learning | Analytics
 
-I'm a **Data Science graduate** specializing in building data-driven solutions — from **predictive modeling** and **data visualization dashboards** to **deploying end-to-end ML applications**.  
-Currently working on projects around **customer churn prediction**, **time series forecasting**, and **business intelligence automation**.
+### 💻 Data Science | Machine Learning | Backend APIs
 
----
+I'm a **Data Science graduate** skilled in building solutions that combine data analytics, predictive modeling, and end-to-end application development. I enjoy turning messy data into meaningful insights — and then converting those into **models, dashboards, or APIs** that create business value.
 
-### 🧠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-yellow)
-![NumPy](https://img.shields.io/badge/NumPy-Math-lightblue)
-![Scikit-Learn](https://img.shields.io/badge/ML-ScikitLearn-orange)
-![XGBoost](https://img.shields.io/badge/ML-XGBoost-red)
-![Power BI](https://img.shields.io/badge/BI-Power%20BI-brightgreen)
-![Streamlit](https://img.shields.io/badge/App-Streamlit-brightgreen?logo=streamlit)
-![SQL](https://img.shields.io/badge/Database-SQL-blue)
-![Git](https://img.shields.io/badge/Version-Git-black)
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+📍 Currently working on customer churn prediction & ML dashboards  
+📈 Exploring the intersection of **ML, backend engineering, and business intelligence**  
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 Main Skills
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/XGBoost-0095D5?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/> </p>
+
+## 📚 Currently Learning
+<p align="left"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/> </p>
+
+## 🛠️ Tools & Workflow
+<p align="left"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/> </p>
+
+---
+
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
-|:--|:--|:--|
-| 🧮 [Customer Churn Prediction System](https://github.com/yourusername/churn-prediction) | Predicts churn and provides SHAP-based insights | Python, XGBoost, Streamlit |
-| 📊 [Sales Dashboard (Power BI)](https://github.com/yourusername/sales-dashboard) | Visualizes regional and monthly sales performance | Power BI, DAX, SQL |
-| 🕒 [Time Series Forecasting](https://github.com/yourusername/time-series-forecasting) | ARIMA/LSTM forecasts for product demand | Python, Pandas, Matplotlib |
+|---------|-------------|------------|
+| 🚕 [NYC Taxi Demand Forecasting + Weather Impact Analysis](https://github.com/crazyandiee/ride-sharing-demand-forecasting) | Time-series forecasting with XGBoost + weather data. Includes Power BI dashboard for insights. | Python, XGBoost, Power BI |
+| 🏪 [Store Uptime Analytics API](https://github.com/crazyandiee/Store-Uptime-Analytics-API) | FastAPI backend to generate uptime/downtime reports from raw store activity logs. | FastAPI, Pandas, Uvicorn |
+| 🔄 [Customer Churn Prediction System (WIP)](https://github.com/crazyandiee/Customer-Churn-Prediction-System-with-Dashboard-Web-App) | Classifies churn risk + provides SHAP-based insight. Web dashboard coming soon! | Python, XGBoost, SHAP, Streamlit |
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 Highlights
+- 🏎️ Reduced forecast error to 5.18 RMSE in taxi demand model (XGBoost)
+- 📈 Built uptime analytics API used for 100k+ log records
+- 👥 Created dashboards used by non-technical stakeholders
+
+---
+
+## 🔍 What I’m Working On
+- Building a Streamlit web app for real-time churn prediction  
+- Deploying ML models with API endpoints and front-end dashboards  
+- Applying time series forecasting to financial and mobility datasets  
+
+---
+
+
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=crazyandiee&theme=tokyonight-duo&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazyandiee&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazyandiee&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+</p>
+
 
 ---
 
-### 🏆 Badges & Certifications
+## 🏆 Certifications
 - 🎓 **BBA in Data Science & Artificial Intelligence**
-- 📜 [Machine Learning — Coursera](https://www.coursera.org/)
-- 📜 [SQL for Data Analysis — Udemy](https://www.udemy.com/)
-- 📜 [Lean Six Sigma (Green Belt)](https://coursera.org)
+- 📜 Data Analytics and Visualization Job Simulation - Accenture
+- 📜 Data Analytics for Lean Six Sigma — University of Amsterdam
 
 ---
 
-### 🧭 Connect With Me
+## 🧭 Let’s Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&style=for-the-badge"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email--red?logo=gmail&style=for-the-badge"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio--black?logo=react&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/advait-chavadekar/"><img src="https://img.shields.io/badge/LinkedIn--blue?logo=LinkedIn&style=for-the-badge"/></a>
+  <a href="mailto:advaitchavadekar@gmail.com"><img src="https://img.shields.io/badge/Email--red?logo=gmail&style=for-the-badge"/></a>
 </p>
+
+---
+⭐ _If you like what I’m building, feel free to star my repos_ 😊
